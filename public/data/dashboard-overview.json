@@ -1,0 +1,12 @@
+{
+    "response": {
+        "error": false,
+        "success": true,
+        "data": {
+            "no_of_programs": 36,
+            "no_of_sessions": 39,
+            "no_of_learning_hours": "93:0",
+            "badges": 0
+        }
+    }
+}

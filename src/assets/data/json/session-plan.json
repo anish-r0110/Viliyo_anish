@@ -1,0 +1,48 @@
+{
+    "error": false,
+    "message": "true",
+    "code": 200,
+    "data": {
+        "responseData": {
+            "prePlannedActivities": [
+                {
+                    "id": 10150,
+                    "title": "Segment Title 1",
+                    "description": "Segment Description 1",
+                    "duration": 2,
+                    "start_time": "",
+                    "end_time": "",
+                    "type": "Live",
+                    "session_plan_status": "Pending",
+                    "segmentActivities": [
+                        {
+                            "id": 5115,
+                            "activity_id": 12,
+                            "activity_name": "Poll",
+                            "activity_data": "{\"title\":\"Having a Poll\",\"description\":\"I want to take a pole description from you guys. Please coordinate with this poor questions and reply your feedback.\",\"poll_description\":[{\"question\":\"What about this thing?\",\"answer_data\":[{\"allow_multiple_choice\":false,\"keep_responses_anonymous\":false,\"answer\":[\"India\",\" America\",\"United Kingdom\",\"Brazil\"],\"responses\":[[],[],[],[]]}],\"participantList\":1}],\"voting_window_timer\":\"20\",\"broadcast_live\":\"Yes\",\"poll_description_with_resp\":[{\"question\":\"What about this thing?\",\"answer_data\":[{\"allow_multiple_choice\":false,\"keep_responses_anonymous\":false,\"answer\":[\"India\",\" America\",\"United Kingdom\",\"Brazil\"],\"responses\":[[],[],[],[]]}],\"participantList\":1,\"participantsList\":1}]}",
+                            "activity_submission_date": null,
+                            "activate_before_days": 0,
+                            "media_attachment_ids": "[]",
+                            "media_attachment": "[]",
+                            "is_deleted": false,
+                            "status": "RELAUNCH",
+                            "activity_res_data": null,
+                            "createdAt": "2024-07-06T15:21:51.236Z"
+                        }
+                    ],
+                    "media_attachment_ids": "[]",
+                    "media_attachment": "[]",
+                    "is_deleted": false,
+                    "activity_type": null,
+                    "activity_data": null,
+                    "created_at": "2024-07-05T11:54:27.799Z",
+                    "maximum_reattempts_allowed": null,
+                    "ongoing": true,
+                    "isSuffled": false,
+                    "isSuffledFromLiveSession": false
+                }
+            ],
+            "quickSetupActivities": []
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "error": false,
+    "message": "",
+    "code": 200,
+    "data": {
+        "token": {
+            "tokenType": "Bearer",
+            "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2OTMyOTI2NTYsImlhdCI6MTY4NjAzNTA1Niwic3ViIjo5MzgsInR5cGUiOiJ0cmFpbmVlIiwiZW1haWwiOiJzaHViaGFtMjYuYmRwc0BnbWFpbC5jb20ifQ.sxdKSZOblIhdv_Cb4JHFyXuQiuB6grXrdg--WqMDnxg",
+            "refreshToken": "938.2a9f3bbcbec0432da1c42a8a728cdf4a515c9e647e99b9347b864d06b60be076538b128040edd007",
+            "expiresIn": "2023-08-29T07:04:16.671Z"
+        },
+        "user": {
+            "id": 938,
+            "trainee_name": "ShubhamTraineeDev",
+            "trainee_email": "shubham26.bdps@gmail.com",
+            "trainee_password": "$2b$10$PBlj6ubWf6vlGhI0Xw8K5evucgdRjegL38j6G0p3nfxgPTbCEL5N6",
+            "social_media_id": null,
+            "social_media_type": null,
+            "isActive": null,
+            "created_at": null,
+            "otp": 9013,
+            "is_verify_otp": true,
+            "first_name": "Shubham",
+            "last_name": "Backend",
+            "age_group": "3",
+            "industry": "1",
+            "organization": "Ahom",
+            "role": "trainee",
+            "town_city": "Gurgaon",
+            "country": null,
+            "website": "https://hello.com",
+            "hobbies": "hello",
+            "facebookLink": "www.fb.com",
+            "instagramLink": "www.insta.com",
+            "linkedinLink": "www.linkedin.com",
+            "youtubeLink": "www.youtube.com",
+            "trainer": "No",
+            "short_bio": "qwertyuiop",
+            "educational_qualification": "Graduate",
+            "trainer_experience": 0,
+            "areas_of_expertise": "JS",
+            "sectors_of_cater": "Food,Fashion",
+            "profile_photo": "https://vtt-ahom.s3.ap-south-1.amazonaws.com/avatar1.png",
+            "profile_video": "https://vtt-ahom.s3.ap-south-1.amazonaws.com/avatar1.png",
+            "pdf_profile": "https://vtt-ahom.s3.ap-south-1.amazonaws.com/avatar1.png",
+            "profileCompletion": null,
+            "temporaryPassword": "$2b$10$PBlj6ubWf6vlGhI0Xw8K5evucgdRjegL38j6G0p3nfxgPTbCEL5N6"
+        }
+    }
+}

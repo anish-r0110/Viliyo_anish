@@ -1,0 +1,219 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Lato font */
+@import './fonts.css';
+
+
+
+@layer components {
+  .btn-primary {
+    @apply px-10 hover:scale-105 cursor-pointer py-2 bg-app-blue text-white rounded-full  focus:outline-none
+  }
+
+  .btn-outline {
+    @apply border rounded-full  border-app-blue text-app-blue cursor-pointer hover:bg-app-blue hover:text-white px-6 py-2  focus:outline-none focus:ring-2 focus:ring-app-blue focus:ring-opacity-50
+  }
+}
+
+:root {
+  --background-start-color: #363e70;
+  --background-end-color: #ec6ae5;
+  --foreground-color: #212025;
+  --font-lato: 'Lato', sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+    --font-lato: 'Lato', sans-serif;
+  }
+}
+
+.shadow-bottom {
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+body {
+  color: rgb(var(--foreground-color));
+  font-family: var(--font-lato) !important;
+  background: linear-gradient(
+    112.61deg,
+    var(--background-start-color) -8.91%,
+    var(--background-end-color) 115.4%
+  );
+}
+
+/* styles.css */
+.DialogOverlay {
+  background: rgb(142, 235, 91);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: grid;
+  place-items: center;
+  overflow-y: auto;
+}
+
+.DialogContent {
+  min-width: 300px;
+  background: white;
+  padding: 30px;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar {
+  width: 6px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #888; /* Color of the thumb */
+  border-radius: 4px; /* Rounded corners of the thumb */
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1; /* Color of the track */
+}
+
+
+/* Define the dot-scroll class for the scrollable element */
+.dot-scroll {
+  /* Set a fixed height to enable scrolling */
+  height: 200px;
+  /* Add overflow to enable the scrollbar */
+  overflow-y: scroll;
+}
+
+/* Style the scrollbar for the dot-scroll class */
+.dot-scroll::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+.dot-scroll::-webkit-scrollbar-thumb {
+  background-color: #4CAF50; /* Color of the dot */
+  border-radius: 50%; /* Make it a circle */
+}
+
+.dot-scroll::-webkit-scrollbar-track {
+  background-color: #f1f1f1; /* Color of the track */
+}
+
+.radix-themes {
+  --default-font-family: var(--font-lato)!important;
+}
+
+.search {    background: #F1F3FF;
+  border-radius: 16px;
+  padding: 16px;
+  position: absolute;
+  right: 0px;
+  top: 59px;
+  /* width: 540px; */
+}
+.borderDashed{
+  border-bottom: 1px dashed #C4C4C4;
+}
+
+/* this is for search functionality at navbar*/
+.yellowBox{    background: #FEEEC6;
+  border-radius: 16px;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 10px;
+  margin-top: 2px;
+}
+.yellowBoxText{
+  font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* or 125% */
+
+
+color: #545455;
+}
+.innerImg{    position: absolute;
+  left: 26px;
+  top: 27%;
+}
+.yellowBoxDate{
+  font-style: italic;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* or 167% */
+
+text-align: right;
+
+color: #545455;
+}
+.searchHeader{
+  font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+
+
+color: #545455;
+}
+
+.searchMain{
+  max-height: 514px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+.RightPlace{
+  display: flex;
+  justify-content: end;
+  background: none;
+  width: 100%;
+  border: none;
+  margin-bottom: 10px;
+}
+.RightPlace img{
+  height: 24px;
+  width: 24px;
+}
+.inputSearch{
+background: #FFFFFF;
+border: 1px solid #D4D6DB;
+border-radius: 16px;
+width: 100%;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+height: 40px;
+color: #545455;
+padding-left: 40px;
+}
+
+.blur-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(5px);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  transition: opacity 0.3ms;
+}
+
+.fade-out {
+  transition:  0.5ms;
+}
+
+.fade-out-animation {
+  transition: opacity 0.3ms ; /* Custom animation for fade-out */
+}
+

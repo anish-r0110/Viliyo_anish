@@ -1,0 +1,2513 @@
+{
+    "error": false,
+    "message": "",
+    "code": 200,
+    "data": [
+        {
+            "id": 4464,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2200,
+            "program": {
+                "id": 3112,
+                "subscriber_id": 1320,
+                "program_name": "6JuneProgram",
+                "from_date": "2023-06-06T00:00:00.000Z",
+                "to_date": "2023-06-07T00:00:00.000Z",
+                "total_batches": 0,
+                "total_sessions": 0,
+                "total_participants": 1,
+                "training_days": 2,
+                "status": "Scheduled",
+                "targetAudienceId": null,
+                "training_hours": "0.75",
+                "programMeta": {
+                    "id": 2442,
+                    "nature_name": "Behavioural",
+                    "program_about": "asdfghjkl",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-06-06T06:56:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-06-06T09:11:00.000Z",
+                "updatedAt": "2023-06-06T09:11:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2240,
+                        "session_name": "6JuneSession",
+                        "programId": 3112,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-06-06T06:56:00.000Z"
+                    },
+                    {
+                        "id": 2241,
+                        "session_name": "x",
+                        "programId": 3112,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-06-06T06:56:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2200,
+                        "batch_name": "Batch 1",
+                        "audienceType": 4,
+                        "sessionMappings": [
+                            {
+                                "id": 2338,
+                                "session_start_date": "2023-06-06",
+                                "session_end_date": "2023-06-06",
+                                "sessionId": 2240,
+                                "session_start_time": "02:00",
+                                "session_end_time": "02:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2200,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2339,
+                                "session_start_date": "2023-06-06",
+                                "session_end_date": "2023-06-06",
+                                "sessionId": 2241,
+                                "session_start_time": "02:45",
+                                "session_end_time": "03:00",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2200,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-06-06T06:56:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": true,
+                "custumAudienceName": ""
+            },
+            "programId": 3112,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-06-06T06:56:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4451,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2192,
+            "program": {
+                "id": 3107,
+                "subscriber_id": 1320,
+                "program_name": "2JuneProgram",
+                "from_date": "2023-06-02T00:00:00.000Z",
+                "to_date": "2023-06-02T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 1,
+                "status": "Ongoing",
+                "targetAudienceId": null,
+                "training_hours": "0.75",
+                "programMeta": {
+                    "id": 2437,
+                    "nature_name": "Behavioural",
+                    "program_about": "sdasd",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": "0.75",
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-06-02T06:54:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-06-02T12:19:00.000Z",
+                "updatedAt": "2023-06-02T12:19:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2232,
+                        "session_name": "Session1",
+                        "programId": 3107,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-06-02T06:54:00.000Z"
+                    },
+                    {
+                        "id": 2233,
+                        "session_name": "Session2",
+                        "programId": 3107,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-06-02T06:54:00.000Z"
+                    },
+                    {
+                        "id": 2234,
+                        "session_name": "Session3",
+                        "programId": 3107,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-06-02T06:54:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2192,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2328,
+                                "session_start_date": "2023-06-02",
+                                "session_end_date": "2023-06-02",
+                                "sessionId": 2232,
+                                "session_start_time": "19:00",
+                                "session_end_time": "19:15",
+                                "program_id": null,
+                                "status": "Conducted",
+                                "batchId": 2192,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2329,
+                                "session_start_date": "2023-06-02",
+                                "session_end_date": "2023-06-02",
+                                "sessionId": 2233,
+                                "session_start_time": "19:30",
+                                "session_end_time": "19:45",
+                                "program_id": null,
+                                "status": "Scheduled",
+                                "batchId": 2192,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2330,
+                                "session_start_date": "2023-06-02",
+                                "session_end_date": "2023-06-02",
+                                "sessionId": 2234,
+                                "session_start_time": "20:00",
+                                "session_end_time": "20:15",
+                                "program_id": null,
+                                "status": "Scheduled",
+                                "batchId": 2192,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-06-02T06:54:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 3107,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-06-02T06:54:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4441,
+            "name": "shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2188,
+            "program": {
+                "id": 3102,
+                "subscriber_id": 1320,
+                "program_name": "1JuneProgram",
+                "from_date": "2023-06-01T00:00:00.000Z",
+                "to_date": "2023-06-01T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 1,
+                "status": "Ongoing",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2432,
+                    "nature_name": "Behavioural",
+                    "program_about": "sdf",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-06-01T09:47:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-06-01T11:34:00.000Z",
+                "updatedAt": "2023-06-01T11:34:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2226,
+                        "session_name": "1JuneSession",
+                        "programId": 3102,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-06-01T09:47:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2188,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2322,
+                                "session_start_date": "2023-06-01",
+                                "session_end_date": "2023-06-01",
+                                "sessionId": 2226,
+                                "session_start_time": "18:00",
+                                "session_end_time": "18:15",
+                                "program_id": null,
+                                "status": "Ongoing",
+                                "batchId": 2188,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-06-01T09:47:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 3102,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-06-01T09:47:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4461,
+            "name": "shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2196,
+            "program": {
+                "id": 2915,
+                "subscriber_id": 1320,
+                "program_name": "qq",
+                "from_date": "2023-06-06T00:00:00.000Z",
+                "to_date": "2023-06-06T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 2,
+                "training_days": 1,
+                "status": "Scheduled",
+                "targetAudienceId": null,
+                "training_hours": "0.50",
+                "programMeta": {
+                    "id": 2251,
+                    "nature_name": "Behavioural",
+                    "program_about": "sdfsfasf",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": true,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-24T13:31:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-06-05T13:05:00.000Z",
+                "updatedAt": "2023-06-05T13:05:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2238,
+                        "session_name": "qqSession",
+                        "programId": 2915,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-06-05T08:37:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2196,
+                        "batch_name": "Batch 1",
+                        "audienceType": 3,
+                        "sessionMappings": [
+                            {
+                                "id": 2334,
+                                "session_start_date": "2023-06-06",
+                                "session_end_date": "2023-06-06",
+                                "sessionId": 2238,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:15",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2196,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-06-05T08:37:00.000Z"
+                    },
+                    {
+                        "id": 2197,
+                        "batch_name": "Batch 2",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2335,
+                                "session_start_date": "2023-06-06",
+                                "session_end_date": "2023-06-06",
+                                "sessionId": 2238,
+                                "session_start_time": "00:15",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2197,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-06-05T08:37:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": true,
+                "custumAudienceName": ""
+            },
+            "programId": 2915,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-06-05T08:37:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4415,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2173,
+            "program": {
+                "id": 2901,
+                "subscriber_id": 1621,
+                "program_name": "event",
+                "from_date": "2023-05-25T00:00:00.000Z",
+                "to_date": "2023-05-26T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2238,
+                    "nature_name": "Behavioural",
+                    "program_about": "gfdgjhlj",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-24T13:31:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-25T07:11:00.000Z",
+                "updatedAt": "2023-05-25T07:11:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2211,
+                        "session_name": "eSession",
+                        "programId": 2901,
+                        "forAll": false,
+                        "subscriber_id": 1621,
+                        "last_updated_at": "2023-05-24T13:31:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2173,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2306,
+                                "session_start_date": "2023-05-25",
+                                "session_end_date": "2023-05-25",
+                                "sessionId": 2211,
+                                "session_start_time": "13:00",
+                                "session_end_time": "13:15",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2173,
+                                "trainer": {
+                                    "id": 495,
+                                    "name": "Adarsh Ratna",
+                                    "email": "adarshdwivedi2@gmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1621,
+                                    "createdAt": "2023-04-28T11:26:00.000Z",
+                                    "updatedAt": "2023-04-28T11:26:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-24T13:31:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2901,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-24T13:31:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4413,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2170,
+            "program": {
+                "id": 2897,
+                "subscriber_id": 1320,
+                "program_name": "25MayProgram",
+                "from_date": "2023-05-25T00:00:00.000Z",
+                "to_date": "2023-06-01T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 8,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2234,
+                    "nature_name": "Behavioural",
+                    "program_about": "sdfsfszfs",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-24T13:31:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-25T05:06:00.000Z",
+                "updatedAt": "2023-05-25T05:06:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2207,
+                        "session_name": "25MaySession",
+                        "programId": 2897,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-24T13:31:00.000Z"
+                    },
+                    {
+                        "id": 2208,
+                        "session_name": "sonal",
+                        "programId": 2897,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-24T13:31:00.000Z"
+                    },
+                    {
+                        "id": 2224,
+                        "session_name": "1JuneSession",
+                        "programId": 2897,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-31T05:16:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2170,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2302,
+                                "session_start_date": "2023-05-25",
+                                "session_end_date": "2023-05-25",
+                                "sessionId": 2207,
+                                "session_start_time": "14:30",
+                                "session_end_time": "14:45",
+                                "program_id": null,
+                                "status": "Conducted",
+                                "batchId": 2170,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2303,
+                                "session_start_date": "2023-05-26",
+                                "session_end_date": "2023-05-26",
+                                "sessionId": 2208,
+                                "session_start_time": "18:00",
+                                "session_end_time": "18:30",
+                                "program_id": null,
+                                "status": "Conducted",
+                                "batchId": 2170,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2320,
+                                "session_start_date": "2023-06-01",
+                                "session_end_date": "2023-06-01",
+                                "sessionId": 2224,
+                                "session_start_time": "11:30",
+                                "session_end_time": "12:00",
+                                "program_id": null,
+                                "status": "Conducted",
+                                "batchId": 2170,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-24T13:31:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2897,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-24T13:31:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4400,
+            "name": "shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2152,
+            "program": {
+                "id": 2880,
+                "subscriber_id": 1622,
+                "program_name": "nitink",
+                "from_date": "2023-05-23T00:00:00.000Z",
+                "to_date": "2023-05-24T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2230,
+                    "nature_name": "Behavioural",
+                    "program_about": "ahom technology ggm",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-23T08:53:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-23T10:18:00.000Z",
+                "updatedAt": "2023-05-23T10:18:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2190,
+                        "session_name": "nitinsession",
+                        "programId": 2880,
+                        "forAll": false,
+                        "subscriber_id": 1622,
+                        "last_updated_at": "2023-05-23T08:53:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2152,
+                        "batch_name": "Batch 1",
+                        "audienceType": 3,
+                        "sessionMappings": [
+                            {
+                                "id": 2284,
+                                "session_start_date": "2023-05-23",
+                                "session_end_date": "2023-05-23",
+                                "sessionId": 2190,
+                                "session_start_time": "15:30",
+                                "session_end_time": "15:45",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2152,
+                                "trainer": {
+                                    "id": 424,
+                                    "name": "Nitin KUMAR",
+                                    "email": "nitin.kumar@skillzamp.com",
+                                    "phone": "",
+                                    "address": "",
+                                    "subscriber_id": 1622,
+                                    "createdAt": "2023-02-01T09:36:00.000Z",
+                                    "updatedAt": "2023-02-01T09:36:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-23T08:53:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2880,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-23T08:53:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4393,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2149,
+            "program": {
+                "id": 2873,
+                "subscriber_id": 1320,
+                "program_name": "23MayProgram",
+                "from_date": "2023-05-23T00:00:00.000Z",
+                "to_date": "2023-05-24T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2224,
+                    "nature_name": "Behavioural",
+                    "program_about": "qwertyuiopasdfghjkl",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-18T12:49:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-23T08:50:00.000Z",
+                "updatedAt": "2023-05-23T08:50:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2187,
+                        "session_name": "23MaySession",
+                        "programId": 2873,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2149,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2281,
+                                "session_start_date": "2023-05-23",
+                                "session_end_date": "2023-05-23",
+                                "sessionId": 2187,
+                                "session_start_time": "16:30",
+                                "session_end_time": "16:45",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2149,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2873,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-18T12:49:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4377,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2142,
+            "program": {
+                "id": 2866,
+                "subscriber_id": 1320,
+                "program_name": "upcomingTest",
+                "from_date": "2023-05-19T00:00:00.000Z",
+                "to_date": "2023-05-19T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 1,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2219,
+                    "nature_name": "Behavioural",
+                    "program_about": "asdfghjk",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-18T12:49:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-19T13:19:00.000Z",
+                "updatedAt": "2023-05-19T13:19:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2180,
+                        "session_name": "upcomingSession",
+                        "programId": 2866,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2142,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2274,
+                                "session_start_date": "2023-05-19",
+                                "session_end_date": "2023-05-19",
+                                "sessionId": 2180,
+                                "session_start_time": "19:30",
+                                "session_end_time": "20:00",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2142,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2866,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-18T12:49:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4376,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2141,
+            "program": {
+                "id": 2864,
+                "subscriber_id": 1621,
+                "program_name": "Adarsh Program",
+                "from_date": "2023-05-20T00:00:00.000Z",
+                "to_date": "2023-05-20T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 1,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2217,
+                    "nature_name": "Functional",
+                    "program_about": "Profhdjdk",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-18T12:49:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-19T11:47:00.000Z",
+                "updatedAt": "2023-05-19T11:47:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2179,
+                        "session_name": "AdarshRatna",
+                        "programId": 2864,
+                        "forAll": false,
+                        "subscriber_id": 1621,
+                        "last_updated_at": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2141,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2273,
+                                "session_start_date": "2023-05-20",
+                                "session_end_date": "2023-05-20",
+                                "sessionId": 2179,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2141,
+                                "trainer": {
+                                    "id": 495,
+                                    "name": "Adarsh Ratna",
+                                    "email": "adarshdwivedi2@gmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1621,
+                                    "createdAt": "2023-04-28T11:26:00.000Z",
+                                    "updatedAt": "2023-04-28T11:26:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2864,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-18T12:49:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4366,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2137,
+            "program": {
+                "id": 2861,
+                "subscriber_id": 1320,
+                "program_name": "Test",
+                "from_date": "2023-05-20T00:00:00.000Z",
+                "to_date": "2023-05-21T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2214,
+                    "nature_name": "Behavioural",
+                    "program_about": "cfvbgdsx",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-18T12:49:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-19T06:40:00.000Z",
+                "updatedAt": "2023-05-19T06:40:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2175,
+                        "session_name": "testSession",
+                        "programId": 2861,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2137,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2267,
+                                "session_start_date": "2023-05-20",
+                                "session_end_date": "2023-05-20",
+                                "sessionId": 2175,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2137,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2861,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-18T12:49:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4365,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2136,
+            "program": {
+                "id": 2859,
+                "subscriber_id": 1320,
+                "program_name": "19MayProgram",
+                "from_date": "2023-05-20T00:00:00.000Z",
+                "to_date": "2023-05-22T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 3,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2212,
+                    "nature_name": "Behavioural",
+                    "program_about": "sghdasjka",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-18T12:49:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-19T07:15:00.000Z",
+                "updatedAt": "2023-05-19T07:15:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2173,
+                        "session_name": "19MaySession",
+                        "programId": 2859,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-18T12:49:00.000Z"
+                    },
+                    {
+                        "id": 2174,
+                        "session_name": "19MaySession1",
+                        "programId": 2859,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2136,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2265,
+                                "session_start_date": "2023-05-21",
+                                "session_end_date": "2023-05-21",
+                                "sessionId": 2173,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2136,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2266,
+                                "session_start_date": "2023-05-22",
+                                "session_end_date": "2023-05-22",
+                                "sessionId": 2174,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2136,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2859,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-18T12:49:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4364,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2135,
+            "program": {
+                "id": 2858,
+                "subscriber_id": 1650,
+                "program_name": "saurabhtestgdToday",
+                "from_date": "2023-05-19T00:00:00.000Z",
+                "to_date": "2023-05-31T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 2,
+                "training_days": 13,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2211,
+                    "nature_name": "Behavioural",
+                    "program_about": null,
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-18T12:49:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-19T05:36:00.000Z",
+                "updatedAt": "2023-05-19T05:36:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2172,
+                        "session_name": "saurabhgdtest",
+                        "programId": 2858,
+                        "forAll": false,
+                        "subscriber_id": 1650,
+                        "last_updated_at": "2023-05-29T11:44:59.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2135,
+                        "batch_name": "Batch 1",
+                        "audienceType": 2,
+                        "sessionMappings": [
+                            {
+                                "id": 2264,
+                                "session_start_date": "2023-05-29",
+                                "session_end_date": "2023-05-29",
+                                "sessionId": 2172,
+                                "session_start_time": "09:00",
+                                "session_end_time": "09:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2135,
+                                "trainer": {
+                                    "id": 438,
+                                    "name": "saurabh singh",
+                                    "email": "saurabhsingh@ahom.tech",
+                                    "phone": "",
+                                    "address": "",
+                                    "subscriber_id": 1650,
+                                    "createdAt": "2023-02-10T20:07:00.000Z",
+                                    "updatedAt": "2023-02-10T20:07:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-18T12:49:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2858,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-18T12:49:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4309,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2112,
+            "program": {
+                "id": 2834,
+                "subscriber_id": 1320,
+                "program_name": "12MayProgram",
+                "from_date": "2023-05-12T00:00:00.000Z",
+                "to_date": "2023-05-12T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 4,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2202,
+                    "nature_name": "Behavioural",
+                    "program_about": "sdfsfa",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": true,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": null
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-12T05:12:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-06-05T06:38:00.000Z",
+                "updatedAt": "2023-06-05T06:38:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2149,
+                        "session_name": "12MaySession",
+                        "programId": 2834,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-12T05:12:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2112,
+                        "batch_name": "Batch 1",
+                        "audienceType": 0,
+                        "sessionMappings": [
+                            {
+                                "id": 2241,
+                                "session_start_date": "2023-05-12",
+                                "session_end_date": "2023-05-12",
+                                "sessionId": 2149,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:15",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2112,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-12T05:12:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2834,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-12T05:12:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4253,
+            "name": "shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2097,
+            "program": {
+                "id": 2816,
+                "subscriber_id": 1320,
+                "program_name": "ParticipantTestingProgram",
+                "from_date": "2023-05-10T00:00:00.000Z",
+                "to_date": "2023-05-11T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 5,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2187,
+                    "nature_name": "Behavioural",
+                    "program_about": "asdadasd",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-10T13:00:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-10T12:32:00.000Z",
+                "updatedAt": "2023-05-10T12:32:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2134,
+                        "session_name": "a",
+                        "programId": 2816,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-10T13:00:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2097,
+                        "batch_name": "Batch 1",
+                        "audienceType": 0,
+                        "sessionMappings": [
+                            {
+                                "id": 2226,
+                                "session_start_date": "2023-05-10",
+                                "session_end_date": "2023-05-10",
+                                "sessionId": 2134,
+                                "session_start_time": "01:30",
+                                "session_end_time": "02:00",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2097,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-10T13:00:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2816,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-10T13:00:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4146,
+            "name": "shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2091,
+            "program": {
+                "id": 2793,
+                "subscriber_id": 1320,
+                "program_name": "SessionLinkTest",
+                "from_date": "2023-05-10T00:00:00.000Z",
+                "to_date": "2023-05-11T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 2,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2166,
+                    "nature_name": "Behavioural",
+                    "program_about": "asdfghjkl",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-09T14:17:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-10T06:12:00.000Z",
+                "updatedAt": "2023-05-10T06:12:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2128,
+                        "session_name": "test",
+                        "programId": 2793,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-09T14:17:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2091,
+                        "batch_name": "Batch 1",
+                        "audienceType": 0,
+                        "sessionMappings": [
+                            {
+                                "id": 2220,
+                                "session_start_date": "2023-05-10",
+                                "session_end_date": "2023-05-10",
+                                "sessionId": 2128,
+                                "session_start_time": "00:45",
+                                "session_end_time": "01:15",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2091,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-09T14:17:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2793,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-09T14:17:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4144,
+            "name": "shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2090,
+            "program": {
+                "id": 2792,
+                "subscriber_id": 1320,
+                "program_name": "10MayProgram",
+                "from_date": "2023-05-10T00:00:00.000Z",
+                "to_date": "2023-05-11T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 2,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2165,
+                    "nature_name": "Behavioural",
+                    "program_about": "qwertyuiop",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-09T14:17:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-10T06:15:00.000Z",
+                "updatedAt": "2023-05-10T06:15:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2127,
+                        "session_name": "10MaySession",
+                        "programId": 2792,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-09T14:17:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2090,
+                        "batch_name": "Batch 1",
+                        "audienceType": 0,
+                        "sessionMappings": [
+                            {
+                                "id": 2219,
+                                "session_start_date": "2023-05-10",
+                                "session_end_date": "2023-05-10",
+                                "sessionId": 2127,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2090,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-09T14:17:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2792,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-09T14:17:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4119,
+            "name": "Shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2080,
+            "program": {
+                "id": 2770,
+                "subscriber_id": 1320,
+                "program_name": "8MayProgram",
+                "from_date": "2023-05-08T00:00:00.000Z",
+                "to_date": "2023-05-09T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 4,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2151,
+                    "nature_name": "Behavioural",
+                    "program_about": "xcvsdc",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-05T13:08:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-08T09:26:00.000Z",
+                "updatedAt": "2023-05-08T09:26:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2117,
+                        "session_name": "8MaySession",
+                        "programId": 2770,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-09T13:51:19.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2080,
+                        "batch_name": "Batch 1",
+                        "audienceType": 0,
+                        "sessionMappings": [
+                            {
+                                "id": 2209,
+                                "session_start_date": "2023-05-08",
+                                "session_end_date": "2023-05-08",
+                                "sessionId": 2117,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2080,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-05T13:08:00.000Z"
+                    }
+                ],
+                "program_setup_completed": true,
+                "isCustomAudienceType": true,
+                "custumAudienceName": "Rahul"
+            },
+            "programId": 2770,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-05T13:08:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4116,
+            "name": "ShubhamTrainee",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2076,
+            "program": {
+                "id": 2762,
+                "subscriber_id": 1320,
+                "program_name": "5MayProgram",
+                "from_date": "2023-05-05T00:00:00.000Z",
+                "to_date": "2023-05-06T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2141,
+                    "nature_name": "Behavioural",
+                    "program_about": "qwerty",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-05T10:28:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-05T10:19:00.000Z",
+                "updatedAt": "2023-05-05T10:19:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2113,
+                        "session_name": "5MaySession",
+                        "programId": 2762,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-05T10:28:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2076,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2205,
+                                "session_start_date": "2023-05-05",
+                                "session_end_date": "2023-05-05",
+                                "sessionId": 2113,
+                                "session_start_time": "03:00",
+                                "session_end_time": "03:15",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2076,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-05T10:28:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2762,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-05T10:28:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4102,
+            "name": "shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2060,
+            "program": {
+                "id": 2746,
+                "subscriber_id": 1320,
+                "program_name": "1MayProgram",
+                "from_date": "2023-05-05T00:00:00.000Z",
+                "to_date": "2023-05-07T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 2,
+                "training_days": 3,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2132,
+                    "nature_name": "Behavioural",
+                    "program_about": "qwerty",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-05-01T11:56:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-01T14:22:00.000Z",
+                "updatedAt": "2023-05-01T14:22:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2096,
+                        "session_name": "hello",
+                        "programId": 2746,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-01T11:56:00.000Z"
+                    },
+                    {
+                        "id": 2097,
+                        "session_name": "hello1",
+                        "programId": 2746,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-01T11:56:00.000Z"
+                    },
+                    {
+                        "id": 2098,
+                        "session_name": "hello2",
+                        "programId": 2746,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-05-01T11:56:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2060,
+                        "batch_name": "Batch 1",
+                        "audienceType": 0,
+                        "sessionMappings": [
+                            {
+                                "id": 2179,
+                                "session_start_date": "2023-05-05",
+                                "session_end_date": "2023-05-05",
+                                "sessionId": 2096,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2060,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2180,
+                                "session_start_date": "2023-05-05",
+                                "session_end_date": "2023-05-05",
+                                "sessionId": 2097,
+                                "session_start_time": "00:45",
+                                "session_end_time": "01:15",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2060,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2181,
+                                "session_start_date": "2023-05-05",
+                                "session_end_date": "2023-05-05",
+                                "sessionId": 2098,
+                                "session_start_time": "01:30",
+                                "session_end_time": "01:45",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2060,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-05-01T11:56:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2746,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-05-01T11:56:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4092,
+            "name": "sssssss",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2054,
+            "program": {
+                "id": 2738,
+                "subscriber_id": 1650,
+                "program_name": "testmail",
+                "from_date": "2023-04-29T00:00:00.000Z",
+                "to_date": "2023-05-04T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 4,
+                "training_days": 6,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2125,
+                    "nature_name": "Functional",
+                    "program_about": "jhgfdfghjk",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": null
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-04-28T14:26:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-05-04T04:11:00.000Z",
+                "updatedAt": "2023-05-04T04:11:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2090,
+                        "session_name": "saurabhsingh",
+                        "programId": 2738,
+                        "forAll": false,
+                        "subscriber_id": 1650,
+                        "last_updated_at": "2023-05-03T09:27:26.000Z"
+                    },
+                    {
+                        "id": 2106,
+                        "session_name": "Kmanali",
+                        "programId": 2738,
+                        "forAll": false,
+                        "subscriber_id": 1650,
+                        "last_updated_at": "2023-05-03T11:43:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2054,
+                        "batch_name": "Batch 1",
+                        "audienceType": 2,
+                        "sessionMappings": [
+                            {
+                                "id": 2172,
+                                "session_start_date": "2023-05-03",
+                                "session_end_date": "2023-05-03",
+                                "sessionId": 2090,
+                                "session_start_time": "13:45",
+                                "session_end_time": "14:15",
+                                "program_id": null,
+                                "status": "Cancelled",
+                                "batchId": 2054,
+                                "trainer": {
+                                    "id": 438,
+                                    "name": "saurabh singh",
+                                    "email": "saurabhsingh@ahom.tech",
+                                    "phone": "",
+                                    "address": "",
+                                    "subscriber_id": 1650,
+                                    "createdAt": "2023-02-10T20:07:00.000Z",
+                                    "updatedAt": "2023-02-10T20:07:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2198,
+                                "session_start_date": "2023-05-04",
+                                "session_end_date": "2023-05-04",
+                                "sessionId": 2106,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2054,
+                                "trainer": {
+                                    "id": 438,
+                                    "name": "saurabh singh",
+                                    "email": "saurabhsingh@ahom.tech",
+                                    "phone": "",
+                                    "address": "",
+                                    "subscriber_id": 1650,
+                                    "createdAt": "2023-02-10T20:07:00.000Z",
+                                    "updatedAt": "2023-02-10T20:07:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-04-28T14:26:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2738,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-04-28T14:26:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 4050,
+            "name": "shubham",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 2032,
+            "program": {
+                "id": 2700,
+                "subscriber_id": 1320,
+                "program_name": "SachinTendulkar",
+                "from_date": "2023-04-24T00:00:00.000Z",
+                "to_date": "2023-04-25T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 2,
+                "training_days": 2,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 2093,
+                    "nature_name": "Behavioural",
+                    "program_about": "HappyBirthday",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-04-21T09:36:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-04-24T12:14:00.000Z",
+                "updatedAt": "2023-04-24T12:14:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 2064,
+                        "session_name": "srt",
+                        "programId": 2700,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-04-21T09:36:00.000Z"
+                    },
+                    {
+                        "id": 2065,
+                        "session_name": "sachin",
+                        "programId": 2700,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-04-21T09:36:00.000Z"
+                    },
+                    {
+                        "id": 2066,
+                        "session_name": "tendulkar",
+                        "programId": 2700,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-04-21T09:36:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 2032,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 2145,
+                                "session_start_date": "2023-04-24",
+                                "session_end_date": "2023-04-24",
+                                "sessionId": 2064,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:30",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2032,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2146,
+                                "session_start_date": "2023-04-24",
+                                "session_end_date": "2023-04-24",
+                                "sessionId": 2065,
+                                "session_start_time": "00:45",
+                                "session_end_time": "01:15",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2032,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 2147,
+                                "session_start_date": "2023-04-24",
+                                "session_end_date": "2023-04-24",
+                                "sessionId": 2066,
+                                "session_start_time": "01:30",
+                                "session_end_time": "02:00",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 2032,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-04-21T09:36:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null
+            },
+            "programId": 2700,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-04-21T09:36:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        },
+        {
+            "id": 3796,
+            "name": "30March",
+            "email": "shubham26.bdps@gmail.com",
+            "phone": null,
+            "batchId": 1567,
+            "program": {
+                "id": 2428,
+                "subscriber_id": 1320,
+                "program_name": "aTest",
+                "from_date": "2023-03-13T00:00:00.000Z",
+                "to_date": "2023-03-15T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 3,
+                "status": "Completed",
+                "targetAudienceId": null,
+                "training_hours": null,
+                "programMeta": {
+                    "id": 1868,
+                    "nature_name": "Behavioural",
+                    "program_about": "sefsdfsf",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": true,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": "",
+                "invite_trigger_date": "2023-03-13T07:34:00.000Z",
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2023-03-13T09:35:00.000Z",
+                "updatedAt": "2023-03-13T09:35:00.000Z",
+                "deletedAt": null,
+                "sessionList": [
+                    {
+                        "id": 1815,
+                        "session_name": "aTest",
+                        "programId": 2428,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-03-13T07:34:00.000Z"
+                    },
+                    {
+                        "id": 1816,
+                        "session_name": "bTest",
+                        "programId": 2428,
+                        "forAll": false,
+                        "subscriber_id": 1320,
+                        "last_updated_at": "2023-03-13T07:34:00.000Z"
+                    }
+                ],
+                "programBatch": [
+                    {
+                        "id": 1567,
+                        "batch_name": "Batch 1",
+                        "audienceType": 1,
+                        "sessionMappings": [
+                            {
+                                "id": 1887,
+                                "session_start_date": "2023-03-13",
+                                "session_end_date": "2023-03-13",
+                                "sessionId": 1815,
+                                "session_start_time": "00:00",
+                                "session_end_time": "00:15",
+                                "program_id": null,
+                                "status": "Cancelled",
+                                "batchId": 1567,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            },
+                            {
+                                "id": 1888,
+                                "session_start_date": "2023-03-13",
+                                "session_end_date": "2023-03-13",
+                                "sessionId": 1816,
+                                "session_start_time": "00:30",
+                                "session_end_time": "01:00",
+                                "program_id": null,
+                                "status": "Completed",
+                                "batchId": 1567,
+                                "trainer": {
+                                    "id": 285,
+                                    "name": "Shubham AhomTech",
+                                    "email": "mr2024@yopmail.com",
+                                    "phone": null,
+                                    "address": null,
+                                    "subscriber_id": 1320,
+                                    "createdAt": "2022-12-13T10:02:00.000Z",
+                                    "updatedAt": "2022-12-13T10:02:00.000Z",
+                                    "deletedAt": null
+                                }
+                            }
+                        ],
+                        "created_on": "2023-03-13T07:34:00.000Z"
+                    }
+                ],
+                "program_setup_completed": false,
+                "isCustomAudienceType": true,
+                "custumAudienceName": "Rahul"
+            },
+            "programId": 2428,
+            "role_id": null,
+            "session_id": null,
+            "created_on": "2023-03-29T07:21:00.000Z",
+            "programme_rating": null,
+            "emailSent": true
+        }
+    ]
+}

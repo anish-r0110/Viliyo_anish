@@ -1,0 +1,52 @@
+{
+    "response": {
+        "error": false,
+        "success": true,
+        "data": [
+            {
+                "session_name": "Introduction to Viliyo",
+                "id": 1933,
+                "title": "Self Study",
+                "description": "",
+                "duration": 0,
+                "start_time": "",
+                "end_time": "",
+                "type": "Pre",
+                "session_plan_status": "Pending",
+                "media_attachment_ids": "[3]",
+                "media_attachment": "[{\"type\":\"Document\",\"url\":\"https://vtt-ahom.s3.ap-south-1.amazonaws.com/Quotation hot 2021.pdf\",\"saved\":true}]",
+                "is_deleted": 0,
+                "activity_type": "18",
+                "activity_data": "{\"title\":\"Introduction to Viliyo\",\"description\":\"Some Description\",\"duration\":2,\"activity_submission_date\":1,\"share_work\":1,\"share_work_in_days\":\"\",\"url\":\"https://www.figma.com/file/3VVyhccGMGKbcyaKVUb2Zn/VILIYO-UI-Responsive?type=design&node-id=1481-6995&mode=design&t=KznJBewabqUunIh0-0\"}",
+                "completed_task_id": null,
+                "read_status": "0",
+                "session_start_date": "2023-08-03",
+                "session_end_date": "2023-08-03",
+                "sessionId": 1367,
+                "due_date": 1
+            },
+            {
+                "session_name": "Introduction to JavaScript",
+                "id": 1806,
+                "title": "Self Study",
+                "description": "",
+                "duration": 0,
+                "start_time": "",
+                "end_time": "",
+                "type": "Pre",
+                "session_plan_status": "Pending",
+                "media_attachment_ids": "[]",
+                "media_attachment": "[]",
+                "is_deleted": 0,
+                "activity_type": "18",
+                "activity_data": "{\"title\":\"Example \",\"description\":\"A short example of Javascript lecture\",\"duration\":30,\"activity_submission_date\":2,\"share_work\":1,\"share_work_in_days\":\"\",\"url\":\"\"}",
+                "completed_task_id": null,
+                "read_status": "0",
+                "session_start_date": "2023-07-19",
+                "session_end_date": "2023-07-19",
+                "sessionId": 1210,
+                "due_date": 2
+            }
+        ]
+    }
+}

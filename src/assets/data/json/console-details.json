@@ -1,0 +1,120 @@
+{
+    "consoleDetails": {
+        "id": 4724,
+        "session_start_date": "2024-07-06",
+        "session_end_date": "2024-07-06",
+        "sessionId": 4389,
+        "session_start_time": "21:30",
+        "session_end_time": "21:45",
+        "program_id": null,
+        "status": "Conducted",
+        "batchId": 3681,
+        "batch": {
+            "id": 3681,
+            "batch_name": "Batch 1",
+            "audienceType": 0,
+            "participants": [
+                {
+                    "id": 9243,
+                    "name": "Nayan",
+                    "email": "nayan.singh@viliyo.com",
+                    "phone": null,
+                    "batchId": 3681,
+                    "programId": 6579,
+                    "role_id": null,
+                    "session_id": null,
+                    "created_on": "2024-07-03T06:44:00.000Z",
+                    "programme_rating": null,
+                    "emailSent": true,
+                    "regStatus": false,
+                    "isAnonymous": false,
+                    "Lname": "Trainee",
+                    "profilePhoto": "https://vtt-ahom.s3.ap-south-1.amazonaws.com/thirdCardImage.png"
+                }
+            ],
+            "supportTeamList": [],
+            "sittingStyle": [
+                {
+                    "id": 2817,
+                    "seating_type": "Cluster",
+                    "nos_of_participant_on_table": 2,
+                    "nos_of_table": 1,
+                    "prefGroupSize": 2,
+                    "assign_manually": false,
+                    "showSeatOccupied": "1",
+                    "allowSwap": true,
+                    "allowStand": true,
+                    "allowBlock": true,
+                    "spclInvitePerSeat": 0,
+                    "noOfSpecialSeat": 0,
+                    "table": "[{\"table_name\":\"Group 1\",\"total_seats\":0,\"seats\":[{\"seat_number\":1,\"participant_id\":9243,\"participant_name\":\"Nayan\",\"participant_email\":\"nayan.singh@viliyo.com\",\"profilePhoto\":\"https://vtt-ahom.s3.ap-south-1.amazonaws.com/thirdCardImage.png\"}]}]"
+                }
+            ],
+            "created_on": "2024-07-03T06:44:00.000Z"
+        },
+        "session": {
+            "id": 4389,
+            "session_name": "Session Name",
+            "program": {
+                "id": 6579,
+                "subscriber_id": 497,
+                "program_name": "Testing Programme",
+                "from_date": "2024-07-05T00:00:00.000Z",
+                "to_date": "2024-07-31T00:00:00.000Z",
+                "total_batches": null,
+                "total_sessions": null,
+                "total_participants": 1,
+                "training_days": 27,
+                "status": "Ongoing",
+                "targetAudienceId": null,
+                "training_hours": "0.25",
+                "programMeta": {
+                    "id": 3154,
+                    "nature_name": "Technical",
+                    "program_about": "For session plan and segment detail",
+                    "program_mode": "Virtual",
+                    "program_fee_applicable": null,
+                    "closeEntryOnSessionStart": false,
+                    "muteParticipants": false,
+                    "autoRecordSession": false,
+                    "screenSharePermissionNeeded": false,
+                    "autoRecordClosedGroup": false,
+                    "participantEntryType": "None"
+                },
+                "session_link": null,
+                "passcode_protected": false,
+                "passcode": null,
+                "invite_trigger_date": null,
+                "invite_trgr_threshld_day": 0,
+                "createdAt": "2024-07-05T12:18:00.000Z",
+                "updatedAt": "2024-07-05T12:18:00.000Z",
+                "deletedAt": null,
+                "program_setup_completed": false,
+                "isCustomAudienceType": false,
+                "custumAudienceName": null,
+                "isDomain": false,
+                "domainName": null,
+                "isRegistration": false,
+                "linkSettingsSaved": true,
+                "linkType": "common"
+            },
+            "programId": 6579,
+            "forAll": false,
+            "subscriber_id": 497,
+            "last_updated_at": "2024-07-06T15:55:43.000Z"
+        },
+        "trainer": {
+            "id": 226,
+            "name": "Subrat Chowdhary",
+            "email": "subrat.chowdhary@viliyo.com",
+            "phone": "",
+            "address": "",
+            "subscriber_id": 497,
+            "createdAt": "2023-04-10T09:07:00.000Z",
+            "updatedAt": "2023-04-10T09:07:00.000Z",
+            "deletedAt": null,
+            "isEnterprise": false
+        },
+        "sessionDynamicData": []
+    }
+}

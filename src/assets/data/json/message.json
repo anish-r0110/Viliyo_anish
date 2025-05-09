@@ -1,0 +1,46 @@
+[ { 
+    
+   "type":"chat_message",
+   "message":
+   { 
+    
+     "message":"hello",
+     "message_by":"Trainer",
+     "message_by_name":"Subrat Chowdhary",
+     "message_by_id":497,
+     "message_type":"text",
+     "message_to":"Participant",
+     "message_to_id":null,
+     "message_time":"12:01 am",
+     "message_reply_to":"",
+     "sender_image":"https:\/\/vtt-ahom.s3.ap-south-1.amazonaws.com\/Trainer_Icon.png"
+     },
+     "room_id":4733,
+     "sub_type":"class",
+     "chat_box_id":4733,
+     "timestamp":710
+},
+
+
+{ 
+  "type":"chat_message",
+  "message":{
+    "message":"Hey hello",
+    "message_by":"Trainer",
+    "message_by_name":"Subrat Chowdhary",
+    "message_by_id":497,
+    "message_type":"text",
+    "message_to":"Participant",
+    "message_to_id":null,
+    "message_time":"11:48 am",
+    "message_reply_to":"",
+    "sender_image":"https:\/\/vtt-ahom.s3.ap-south-1.amazonaws.com\/Trainer_Icon.png"
+    },
+    "room_id":4733,
+    "sub_type":"individual",
+    "chat_box_id":"497_9327",
+    "timestamp":277
+  }
+
+
+]

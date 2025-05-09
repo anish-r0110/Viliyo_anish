@@ -1,0 +1,5 @@
+
+
+interface Trainer extends Person{
+
+}

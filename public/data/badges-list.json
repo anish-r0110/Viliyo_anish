@@ -1,0 +1,119 @@
+{
+    "error": false,
+    "message": "",
+    "code": 200,
+    "data": {
+        "getBadge": [
+            {
+                "id": 133,
+                "achievementName": "Team Player",
+                "senderId": 835,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 953,
+                "programId": 2,
+                "createdAt": "2023-05-18T09:28:29.525Z",
+                "userType": "TRAINEE",
+                "senderName": "SHUBHAM"
+            },
+            {
+                "id": 136,
+                "achievementName": "Team Player",
+                "senderId": 1320,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 953,
+                "programId": 2,
+                "createdAt": "2023-05-18T09:28:29.525Z",
+                "userType": "TRAINER",
+                "senderName": "SHUBHAMTRAINER"
+            },
+            {
+                "id": 146,
+                "achievementName": "Team Player",
+                "senderId": 835,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 953,
+                "programId": 2,
+                "createdAt": "2023-05-18T09:28:29.525Z",
+                "userType": "TRAINEE",
+                "senderName": "SHUBHAM"
+            },
+            {
+                "id": 414,
+                "achievementName": "Team Player",
+                "senderId": 1320,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 953,
+                "programId": 2,
+                "createdAt": "2023-05-18T09:28:29.525Z",
+                "userType": "TRAINER",
+                "senderName": "SHUBHAMTRAINER"
+            },
+            {
+                "id": 419,
+                "achievementName": "Team Player",
+                "senderId": 1320,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 953,
+                "programId": 2,
+                "createdAt": "2023-05-18T09:28:29.525Z",
+                "userType": "TRAINER",
+                "senderName": "SHUBHAMTRAINER"
+            },
+            {
+                "id": 422,
+                "achievementName": "Team Player",
+                "senderId": 835,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 953,
+                "programId": 2,
+                "createdAt": "2023-05-18T09:28:29.525Z",
+                "userType": "TRAINEE",
+                "senderName": "SHUBHAM"
+            },
+            {
+                "id": 434,
+                "achievementName": "Team Player",
+                "senderId": 1320,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 953,
+                "programId": 2,
+                "createdAt": "2023-05-18T09:29:38.929Z",
+                "userType": "TRAINER",
+                "senderName": "SHUBHAMTRAINER"
+            },
+            {
+                "id": 448,
+                "achievementName": "Brilliant Effort",
+                "senderId": 1320,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 953,
+                "programId": 2,
+                "createdAt": "2023-05-29T07:03:27.290Z",
+                "userType": "TRAINER",
+                "senderName": "SHUBHAMTRAINER"
+            },
+            {
+                "id": 456,
+                "achievementName": "Creative Thinker",
+                "senderId": 1650,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 2278,
+                "programId": 2870,
+                "createdAt": "2023-05-31T07:25:00.182Z",
+                "userType": "TRAINER",
+                "senderName": "Akash"
+            },
+            {
+                "id": 457,
+                "achievementName": "Star Participant",
+                "senderId": 1650,
+                "receiverEmail": "aadi123@yopmail.com",
+                "sessionMappingId": 2278,
+                "programId": 2870,
+                "createdAt": "2023-05-31T07:25:58.853Z",
+                "userType": "TRAINER",
+                "senderName": "Akash"
+            }
+        ]
+    }
+}
